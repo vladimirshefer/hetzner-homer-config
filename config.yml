@@ -72,7 +72,7 @@ services:
     icon: "fas fa-cloud"
     items:
       - name: "Portainer"
-        logo: "assets/tools/sample.png"
+        logo: "assets/tools/portainer.png"
         subtitle: "Docker GUI"
         tag: "app"
         url: "https://portainer.hetzner.shefer.dev/"
