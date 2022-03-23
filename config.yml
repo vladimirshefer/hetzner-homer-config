@@ -89,9 +89,9 @@ services:
         #tag: "app"
         url: "https://teamcity.hetzner.shefer.dev"
         target: "_blank" # optional html a tag target attribute
-      - name: "Teamcity"
+      - name: "Proxmox"
         logo: "assets/tools/sample2.png"
-        subtitle: "CI/CD pipelines"
+        subtitle: "Virtual machines control"
         #tag: "app"
-        url: "https://teamcity.hetzner.shefer.dev"
+        url: "https://proxmox.hetzner.shefer.dev"
         target: "_blank" # optional html a tag target attribute
