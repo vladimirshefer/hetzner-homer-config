@@ -59,7 +59,7 @@ services:
         url: "https://teamcity.hetzner.shefer.dev"
         target: "_blank" # optional html a tag target attribute
       - name: "Proxmox"
-        logo: "assets/tools/teamcity.png"
+        logo: "assets/tools/proxmox.png"
         subtitle: "Virtual machines control"
         #tag: "app"
         url: "https://proxmox.hetzner.shefer.dev"
