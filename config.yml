@@ -53,7 +53,7 @@ services:
         url: "https://nginx.hetzner.shefer.dev"
         target: "_blank" # optional html a tag target attribute
       - name: "Teamcity"
-        logo: "assets/tools/sample2.png"
+        logo: "assets/tools/nginx_proxy_manager.png"
         subtitle: "CI/CD pipelines"
         #tag: "app"
         url: "https://teamcity.hetzner.shefer.dev"
