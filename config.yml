@@ -47,13 +47,13 @@ services:
         url: "https://portainer.hetzner.shefer.dev/"
         target: "_blank" # optional html a tag target attribute
       - name: "Nginx Proxy Manager"
-        logo: "assets/tools/sample2.png"
+        logo: "assets/tools/nginx_proxy_manager.png"
         subtitle: "Nginx and proxy GUI"
         #tag: "app"
         url: "https://nginx.hetzner.shefer.dev"
         target: "_blank" # optional html a tag target attribute
       - name: "Teamcity"
-        logo: "assets/tools/nginx_proxy_manager.png"
+        logo: "assets/tools/teamcity.png"
         subtitle: "CI/CD pipelines"
         #tag: "app"
         url: "https://teamcity.hetzner.shefer.dev"
